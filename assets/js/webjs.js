@@ -44,10 +44,10 @@ $(document).ready(function() {
   });
   
   /*///////////Counters///////////////////*/
- 	counter.counterUp({
+ 	/* counter.counterUp({
 		delay: 20,
 		time: 2000
-	});
+	}); */
 	/*////Multiple Select//////*/
 	mselect.select2();
 	tagpicker.select2({	
